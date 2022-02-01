@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed which i have 
   - COVID-19 Visualizations, Predictions, Forecasting: The objective of this notebook is to study COVID-19 outbreak with the help of some basic visualizations techniques. Comparison of China where the COVID-19 originally originated from with the Rest of the World. Perform predictions and Time Series forecasting in order to study the impact and spread of the COVID-19 in comming days.
   -  Top Tech Companies Stock Price Analysis: In this project we will be analyzing companies from the technology sector. We will analyze their behaviors over the past few years, as well as their behaviors during the COVID-19 Pandemic. We will try to determine new trends that can help investors make more informed decisions.
 
-  Tools: scikit-learn, Pandas, Seaborn, Matplotlib.
+     Tools: scikit-learn, Pandas, Seaborn, Matplotlib.
 
 - # Data Analysis and Visualisation
 - Python
@@ -27,4 +27,4 @@ Repository containing portfolio of data science projects completed which i have 
 	    - Machine Learning with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
 	    - Machine Learning with Decision Trees and Random Forests: Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com.
  
-  Tools: Python
+        Tools: Python
